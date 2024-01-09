@@ -3,7 +3,7 @@
 Thank you for visiting my GitHub! 🌧️
 
 ✨ Some fun stuff about me:
-- I'm extremely eager to explore the difference computer science fields and expand my knowledge
+- I'm extremely eager to explore the different computer science fields and expand my knowledge
 - I have worked with C++, C, and Python
 - I'm very passionate about mathematics and am minoring in the subject! 📖
 
