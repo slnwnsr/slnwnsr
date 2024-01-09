@@ -3,8 +3,9 @@
 Thank you for visiting my GitHub!
 
 Some fun stuff about me:
-- I am eager to explore different types of computing and expand my knowledge
+- I'm eager to explore different types of computing and expand my knowledge
 - I have worked with Python, C, and C++
+- I'm taking a minor in mathematics
 
 <!--
 **slnwnsr/slnwnsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
