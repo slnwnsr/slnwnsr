@@ -1,11 +1,11 @@
 ### Hello!
 
-Thank you for visiting my GitHub!
+Thank you for visiting my GitHub! 🌧️
 
-Some fun stuff about me:
-- I'm eager to explore different types of computing and expand my knowledge
-- I have worked with Python, C, and C++
-- I'm taking a minor in mathematics
+✨ Some fun stuff about me:
+- I'm extremely eager to explore the difference computer science fields and expand my knowledge
+- I have worked with C++, C, and Python
+- I'm very passionate about mathematics and am minoring in the subject! 📖
 
 <!--
 **slnwnsr/slnwnsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
