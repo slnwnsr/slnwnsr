@@ -2,10 +2,10 @@
 
 Thank you for visiting my GitHub! 🌧️
 
-✨ Some fun stuff about me:
-- I'm extremely eager to explore the different computer science fields and expand my knowledge
-- I have worked with C++, C, Python, and C#
-- I'm currently learning HTML, CSS, Javascript, Java, and PostgreSQL
+💻 Some fun stuff about me:
+- I'm extremely eager to explore different concepts and learn new things
+- I have worked with HTML, CSS, Javascript, Java, C++, C, Python, and C#
+- I'm currently learning about web app development and software practices
 - I'm very passionate about mathematics and am minoring in the subject! 📖
 
 <!--
