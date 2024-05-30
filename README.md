@@ -1,12 +1,11 @@
 ### Hello!
 
-Thank you for visiting my GitHub! 🌧️
+Thank you for visiting my GitHub!
 
-💻 Some fun stuff about me:
-- I'm extremely eager to explore different concepts and learn new things
-- I have worked with HTML, CSS, Javascript, Java, C++, C, Python, and C#
-- I'm currently learning about web app development and software practices
+💫 Some fun stuff about me:
+- I have worked with C++, C, Python, HTML, CSS, Javascript, Java, and C# 💻
 - I'm very passionate about mathematics and am minoring in the subject! 📖
+- I'm searching for a Fall 2024 co-op/internship 🔭
 
 <!--
 **slnwnsr/slnwnsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
