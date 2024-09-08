@@ -5,8 +5,7 @@ Thank you for visiting my GitHub!
 💫 Some fun stuff about me:
 - I have worked with C++, C, Python, HTML, CSS, Javascript, Java, and C# 💻
 - I'm very passionate about mathematics and am minoring in the subject! 📖
-- I'm searching for a Fall 2024 co-op/internship 🔭
-
+- I'm searching for co-op/internship opportunities 🔭
 <!--
 **slnwnsr/slnwnsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
