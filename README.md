@@ -1,22 +1,9 @@
-### Hello!
+### Hello! 👾 👾 👾
 
-Thank you for visiting my GitHub!
+Thank you for visiting my GitHub! My name is Sloane and I'm a 3rd year CS student at SFU.
 
-💫 Some fun stuff about me:
-- I have worked with C++, C, Python, HTML, CSS, Javascript, Java, and C# 💻
-- I'm very passionate about mathematics and am minoring in the subject! 📖
+#### 💫 Some fun stuff about me:
+- My areas of interest include systems programming, embedded firmware, and operating systems 💭
+- I'm exploring my passion for discrete math and graph theory by minoring in mathematics 📖
+- My favourite language is C++ because I like how pedantic strongly typed languages are 💻
 <!-- - I'm searching for co-op/internship opportunities 🔭 -->
-<!--
-**slnwnsr/slnwnsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
